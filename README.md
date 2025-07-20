@@ -19,4 +19,4 @@ This project replicates the layout and design of the Spotify landing page/interf
 ## 📸 Screenshot
 
 ```md
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/rishiadhikary/spotify-clone/main/screenshot.png)
